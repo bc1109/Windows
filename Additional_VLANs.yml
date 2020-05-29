@@ -1,0 +1,23 @@
+---
+  V1name: 'Printers'
+  V1id: '100'
+  V1gtwy: '192.168.100.129'
+  V1mask: '255.255.255.0'
+  V2name: 'MGMT'
+  V2id: '400'
+  V2gtwy: '192.168.101.129'
+  V2mask: '255.255.255.0'
+
+
+
+
+
+
+#1.VLANname: ''
+#VLANid: ''
+#1.VLANgateway: ''
+#1.VLANmask: ''
+#2.VLANname: ''
+#2.VLANid: ''
+#2.VLANgateway: ''
+#2.VLANmask: ''
