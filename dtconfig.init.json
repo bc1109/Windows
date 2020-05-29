@@ -69,11 +69,11 @@
                                "ArubaCPPMVMDeployTo":  null,
                                "PaloAltoVMDeployTo":  null,
                                "CodeMettleDeployTo":  null,
-                               "CertAgentVM":  "C:\\DTECH\\Applications\\CSfC\\CertAgent.OVF",
-                               "ArubaVMCVM":  "C:\\DTECH\\Applications\\CSfC\\ArubaVMCVM.OVF",
-                               "ArubaCPPMVM":  "C:\\DTECH\\Applications\\CSfC\\ArubaCPPMVM.OVF",
-                               "PaloAltoVM":  "C:\\DTECH\\Applications\\CSfC\\PaloAlto.OVF",
-                               "CodeMettle":  "C:\\DTECH\\Applications\\CSfC\\CodeMettle.OVF"
+                               "CertAgentVM":  "",
+                               "ArubaVMCVM":  "",
+                               "ArubaCPPMVM":  "",
+                               "PaloAltoVM":  "",
+                               "CodeMettle":  ""
                            },
                   "vSAN":  {
                                "Enabled":  "Checked",
@@ -83,9 +83,9 @@
                                "vSANDataStoreName":  ""
                            },
                   "VMwareLicense":  {
-                                        "ESXi":  "612CK-08H8Q-68V98-0D4R2-2HJ7N",
-                                        "vSAN":  "E442P-0HLDH-280A2-022A0-1WF05",
-                                        "vCenter":  "TM02H-8C20P-68A95-0X92H-2196M"
+                                        "ESXi":  "",
+                                        "vSAN":  "",
+                                        "vCenter":  ""
                                     },
                   "PortGroups":  {
                                      "PG1Name":  "",
