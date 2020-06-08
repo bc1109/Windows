@@ -1,0 +1,52 @@
+V1name = (parsed_vlanfile.get('V1name'))
+V2name = (parsed_vlanfile.get('V2name'))
+V3name = (parsed_vlanfile.get('V3name'))
+V4name = (parsed_vlanfile.get('V4name'))
+V5name = (parsed_vlanfile.get('V5name'))
+V6name = (parsed_vlanfile.get('V6name'))
+V7name = (parsed_vlanfile.get('V7name'))
+V8name = (parsed_vlanfile.get('V8name'))
+V9name = (parsed_vlanfile.get('V9name'))
+V10name = (parsed_vlanfile.get('v10name'))
+V1id = (parsed_vlanfile.get('V1id'))
+V2id = (parsed_vlanfile.get('V2id'))
+V3id = (parsed_vlanfile.get('V3id'))
+V4id = (parsed_vlanfile.get('V4id'))
+V5id = (parsed_vlanfile.get('V5id'))
+V6id = (parsed_vlanfile.get('V6id'))
+V7id = (parsed_vlanfile.get('V7id'))
+V8id = (parsed_vlanfile.get('V8id'))
+V9id = (parsed_vlanfile.get('V9id'))
+V10id = (parsed_vlanfile.get('v10id'))
+V1gtwy = (parsed_vlanfile.get('V1gtwy'))
+V2gtwy = (parsed_vlanfile.get('V2gtwy'))
+V3gtwy = (parsed_vlanfile.get('V3gtwy'))
+V4gtwy = (parsed_vlanfile.get('V4gtwy'))
+V5gtwy = (parsed_vlanfile.get('V5gtwy'))
+V6gtwy = (parsed_vlanfile.get('V6gtwy'))
+V7gtwy = (parsed_vlanfile.get('V7gtwy'))
+V8gtwy = (parsed_vlanfile.get('V8gtwy'))
+V9gtwy = (parsed_vlanfile.get('V9gtwy'))
+V10gtwy = (parsed_vlanfile.get('v10gtwy'))
+V1mask = (parsed_vlanfile.get('V1mask'))
+V2mask = (parsed_vlanfile.get('V2mask'))
+V3mask = (parsed_vlanfile.get('V3mask'))
+V4mask = (parsed_vlanfile.get('V4mask'))
+V5mask = (parsed_vlanfile.get('V5mask'))
+V6mask = (parsed_vlanfile.get('V6mask'))
+V7mask = (parsed_vlanfile.get('V7mask'))
+V8mask = (parsed_vlanfile.get('V8mask'))
+V9mask = (parsed_vlanfile.get('V9mask'))
+V10mask = (parsed_vlanfile.get('v10mask'))
+
+
+
+
+
+
+
+
+
+
+
+
